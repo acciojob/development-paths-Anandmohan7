@@ -8,6 +8,6 @@
 
 
 document.addEventListener("DOMContentLoaded", () => 
-    document.querySelectorAll("ul li").forEach(item => item.append(" development"))
+    document.querySelectorAll("ul li").forEach(item => item.append("development"))
 );
 H
